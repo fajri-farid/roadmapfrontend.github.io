@@ -1,0 +1,971 @@
+*{
+    margin: 0 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "poppins", sans-serif;
+    text-decoration: none;
+}
+
+.judul h1 {
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: -10px;
+}
+
+.tumbnail{
+    display: flex;
+    justify-content: center;
+}
+
+.tumbnail img{
+    height: 300px;
+}
+
+.informasi p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+/* KELAS VSCODE */
+
+.kelas .vscode img{
+    height: 80px;
+}
+
+.kelas .vscode .gambar1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .vscode h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .vscode p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.kelas .vscode button{
+    background-color: #42A1EC ;
+    border: 1px solid #0077CC;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 22px;
+    padding: 5px 15px;
+    text-align: center;
+    border-radius: 7px;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    transition: 0.25s;
+}
+
+.kelas .vscode .tombol1{
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+/* KELAS VSCODE END */
+
+/* KELAS HTML */
+.kelas .html img{
+    height: 80px;
+}
+
+.kelas .html .gambar2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .html h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .html p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.kelas .html b{
+    padding: 0;
+    margin: 0;
+}
+
+.kelas .html .kelashtml{
+    display: flex;
+    justify-content: center;
+}
+
+.kelas .html .kelashtml img{
+    height: 300px;
+}
+/* KELAS HTML END */
+
+/* KELAS CSS */
+.kelas .css img{
+    height: 80px;
+}
+
+.kelas .css .gambar3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .css h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .css p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.kelas .css b{
+    padding: 0;
+    margin: 0;
+}
+
+.kelas .css .kelascss{
+    display: flex;
+    justify-content: center;
+}
+
+.kelas .css .kelascss img{
+    height: 300px;
+}
+
+/* KELAS CSS END */
+
+/* KELAS VSCODE */
+.kelas .vscode img{
+    height: 80px;
+}
+
+.kelas .vscode .gambar4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .vscode h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .vscode p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.kelas .vscode b{
+    padding: 0;
+    margin: 0;
+}
+
+.kelas .vscode .kelasvscode{
+    display: flex;
+    justify-content: center;
+}
+
+.kelas .vscode .kelasvscode img{
+    height: 350px;
+}
+/* KELAS VSCODE END */
+
+/* JAVASCRIPT DASAR */
+.kelas .js1 img{
+    height: 80px;
+}
+
+.kelas .js1 .gambar5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .js1 h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .js1 p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.kelas .js1 b{
+    padding: 0;
+    margin: 0;
+}
+
+.kelas .js1 .kelasjs1{
+    display: flex;
+    justify-content: center;
+}
+
+.kelas .js1 .kelasjs1 img{
+    height: 350px;
+}
+/* JAVASCRIPT DASAR END */
+
+/* PROJECT HTML,CSS & JS */
+.kelas .project img{
+    height: 80px;
+}
+
+.kelas .project .gambar6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .project h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .project p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.kelas .project b{
+    padding: 0;
+    margin: 0;
+}
+
+.kelas .project .kelasproject{
+    display: flex;
+    justify-content: center;
+}
+
+.kelas .project .kelasproject img{
+    height: 300px;
+}
+/* PROJECT HTML,CSS & JS END */
+
+/* BOOTSTRAP */
+.kelas .bootstrap img{
+    height: 80px;
+}
+
+.kelas .bootstrap .gambar7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .bootstrap h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .bootstrap p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.kelas .bootstrap b{
+    padding: 0;
+    margin: 0;
+}
+
+.kelas .bootstrap .kelasbootstrap{
+    display: flex;
+    justify-content: center;
+}
+
+.kelas .bootstrap .kelasbootstrap img{
+    height: 300px;
+}
+/* BOOTSTRAP END */
+
+/* JAVASCRIPT LANJUTAN */
+.kelas .js2 img{
+    height: 80px;
+}
+
+.kelas .js2 .gambar8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .js2 h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .js2 p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.kelas .js2 b{
+    padding: 0;
+    margin: 0;
+}
+
+.kelas .js2 .kelasjs2{
+    display: flex;
+    justify-content: center;
+}
+
+.kelas .js2 .kelasjs2 img{
+    height: 300px;
+}
+/* JAVASCRIPT LANJUTAN END */
+.kelas .project2 img{
+    height: 80px;
+}
+
+.kelas .project2 .gambar9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+.kelas .project2 h3{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.kelas .project2 p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.kelas .project2 b{
+    padding: 0;
+    margin: 0;
+}
+
+.kelas .project2 .kelasproject2{
+    display: flex;
+    justify-content: center;
+}
+
+.kelas .project2 .kelasproject2 img{
+    height: 350px;
+}
+/* PROJECT LANJUTAN */
+
+/* PROJECT LANJUTAN END */
+
+/* TERAKHIR */
+.akhir h1{
+    font-size: 40px;
+}
+
+.akhir p{
+    font-size: 20px;
+    text-align: justify;
+}
+/* TERAKHIR END */
+
+/* SOSMED */
+.sosmed{
+    display: flex;
+    justify-content: center;
+}
+
+.sosmed h5{
+    text-align: center;
+    font-size: 25px;
+}
+
+.sosmed2 {
+    display: flex;
+    justify-content: center;
+}
+
+.sosmed2 img{
+    height: 70px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: -30px;
+    margin-left: -25px;
+    margin-right: -25px;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.sosmed2 figure:hover img{
+    -webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+/* SOSMED END */
+
+/* RESPONSIVE */
+@media screen and (max-width:1200px){
+
+    .kelas .vscode button{
+        font-size: 23px;
+        padding: 5px 15px;
+        height: 60px;
+    }
+
+    .kelas .css .kelascss img{
+        height: 280px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+    .kelas .project .kelasproject img{
+        height: 280px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+    .kelas .project2 .kelasproject2 img{
+        height: 350px;
+    }
+}
+@media screen and (max-width:1000px){
+    *{
+        margin: 0 5px;
+        padding: 10px; 
+    }
+
+    .tumbnail img{
+        height: 250px;
+        margin-bottom: 20px;
+    }
+
+    .kelas .css .kelascss img{
+        height: 250px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+    .kelas .project .kelasproject img{
+        height: 250px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+}
+
+@media screen and (max-width:950px){
+    .tumbnail img{
+        height: 260px;
+    }
+
+    .kelas .css .kelascss img{
+        height: 220px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .kelas .project .kelasproject img{
+        height: 220px;
+        margin-left: -18px;
+        margin-right: -18px;
+    }
+}
+
+@media screen and (max-width:800px){
+    .tumbnail img{
+        height: 230px;
+    }
+
+    .kelas .html .kelashtml img{
+        height: 280px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .kelas .css .kelascss img{
+        height: 200px;
+        margin-left: -18px;
+        margin-right: -18px;
+    }
+
+    .kelas .vscode .kelasvscode img{
+        height: 290px;
+    }
+
+    .kelas .js1 .kelasjs1 img{
+        height: 290px;
+    }
+
+    .kelas .project .kelasproject img{
+        height: 200px;
+        margin-left: -18px;
+        margin-right: -18px;
+    }
+
+    .kelas .bootstrap .kelasbootstrap img{
+        height: 280px;
+    }
+
+    .kelas .js2 .kelasjs2 img{
+        height: 260px;
+    }
+
+    .kelas .project2 .kelasproject2 img{
+        height: 300px;
+    }
+}
+
+@media screen and (max-width:700px){
+    .tumbnail img{
+        height: 200px;
+    }
+
+    .kelas .html .kelashtml img{
+        height: 250px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .kelas .css .kelascss img{
+        height: 200px;
+        margin-left: -18px;
+        margin-right: -18px;
+    }
+
+    .kelas .vscode .kelasvscode img{
+        height: 270px;
+    }
+
+    .kelas .js1 .kelasjs1 img{
+        height: 270px;
+    }
+
+    .kelas .project .kelasproject img{
+        height: 180px;
+        margin-left: -18px;
+        margin-right: -18px;
+    }
+
+    .kelas .bootstrap .kelasbootstrap img{
+        height: 270px;
+    }
+
+    .kelas .js2 .kelasjs2 img{
+        height: 240px;
+    }
+}
+
+@media screen and (max-width:650px){
+    .kelas .html .kelashtml img{
+        height: 230px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .kelas .css .kelascss img{
+        height: 180px;
+        margin-left: -18px;
+        margin-right: -18px;
+    }
+}
+
+@media screen and (max-width:700px){
+    .tumbnail img{
+        height: 180px;
+    }
+
+    .kelas .html p{
+        margin-bottom: 20px;
+        margin: 0;
+    }
+
+    .kelas .html .kelashtml{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kelas .html .kelashtml{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kelas .html .kelashtml img{
+        margin-top: -20px;
+        height: 300px;
+    }
+
+    .kelas .css p{
+        margin-bottom: 20px;
+    }
+
+    .kelas .css .kelascss{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kelas .css .kelascss{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kelas .css .kelascss img{
+        margin-top: -20px;
+        height: 300px;
+    }
+
+    .kelas .vscode .kelasvscode img{
+        height: 300px;
+    }
+
+    .kelas .js1 .kelasjs1 img{
+        height: 300px;
+    }
+
+    .kelas .project p{
+        margin-bottom: 20px;
+    }
+
+    .kelas .project .kelasproject{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kelas .project .kelasproject{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kelas .project .kelasproject img{
+        margin-top: -20px;
+        height: 300px;
+    }
+
+    .kelas .bootstrap .kelasbootstrap img{
+        height: 300px;
+    }
+
+    .kelas .js2 p{
+        margin-bottom: 20px;
+    }
+
+    .kelas .js2 .kelasjs2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kelas .js2 .kelasjs2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kelas .js2 .kelasjs2 img{
+        margin-top: -20px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width:620px){
+    *{
+        margin: 0;
+        padding: 10px; 
+    }
+}
+
+@media screen and (max-width:560px){
+    .kelas .html .kelashtml img{
+        height: 230px;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .kelas .css .kelascss img{
+        height: 180px;
+        margin-left: -18px;
+        margin-right: -18px;
+    }
+}
+
+@media screen and (max-width:560px){
+    .tumbnail img{
+        height: 160px;
+    }
+
+    .kelas .html p{
+        margin-bottom: 20px;
+        margin: 0;
+    }
+
+    .kelas .html .kelashtml img{
+        margin-top: -20px;
+        height: 250px;
+    }
+
+    .kelas .css p{
+        margin-bottom: 20px;
+    }
+
+    .kelas .css .kelascss img{
+        margin-top: -20px;
+        height: 250px;
+    }
+
+    .kelas .vscode .kelasvscode img{
+        height: 250px;
+    }
+
+    .kelas .js1 .kelasjs1 img{
+        height: 250px;
+    }
+
+    .kelas .project .kelasproject img{
+        margin-top: -20px;
+        height: 250px;
+    }
+
+    .kelas .bootstrap .kelasbootstrap img{
+        height: 250px;
+    }
+
+
+    .kelas .js2 .kelasjs2 img{
+        margin-top: -20px;
+        height: 250px;
+    }
+}
+
+@media screen and (max-width:630px){
+    .sosmed2 img{
+        height: 70px;
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: -30px;
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+}
+
+@media screen and (max-width:500px){
+    .tumbnail img{
+        height: 150px;
+    }
+}
+
+@media screen and (max-width:462px){
+    .kelas .vscode button{
+        font-size: 17px;
+        padding: 5px 15px;
+        height: 40px;
+    }
+
+    .tumbnail img{
+        height: 140px;
+    }
+
+    .kelas .project2 .kelasproject2 img{
+        height: 300px;
+    }
+    
+    .judul h1{
+        font-size: 40px;
+    }
+
+    .informasi p{
+        font-size: 16px;
+    }
+
+    .kelas .vscode p{
+        font-size: 16px;
+    }
+
+    .kelas .html p{
+        font-size: 16px;
+    }
+
+    .kelas .css p{
+        font-size: 16px;
+    }
+
+    .kelas .js1 p{
+        font-size: 16px;
+    }
+
+    .kelas .project p{
+        font-size: 16px;
+    }
+
+    .kelas .bootstrap p{
+        font-size: 16px;
+    }
+
+    .kelas .js2 p{
+        font-size: 16px;
+        text-align: justify;
+    }
+    
+    .kelas .project2 p{
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    .akhir h1{
+        font-size: 25px;
+    }
+    .akhir p{
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width:432px){
+    .tumbnail img{
+        height: 135px;
+    }
+
+    .kelas .bootstrap p{
+        text-align: left;
+    }
+
+    
+    .kelas .project2 .kelasproject2 img{
+        height: 250px;
+    }
+
+    .sosmed h5{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:390px){
+    *{
+        margin: 0px;
+        padding: 10px 5px; 
+    }
+
+    .tumbnail img{
+        height: 122px;
+    }
+
+    .judul h1{
+        font-size: 35px;
+    }
+
+
+    .kelas .html p{
+        margin-bottom: 20px;
+        margin: 0;
+    }
+
+    .kelas .html .kelashtml img{
+        margin-top: -20px;
+        height: 230px;
+    }
+
+    .kelas .css p{
+        margin-bottom: 20px;
+    }
+
+    .kelas .css .kelascss img{
+        margin-top: -20px;
+        height: 230px;
+    }
+
+    .kelas .vscode .kelasvscode img{
+        height: 230px;
+    }
+
+    .kelas .js1 .kelasjs1 img{
+        height: 230px;
+    }
+
+    .kelas .project .kelasproject img{
+        margin-top: -20px;
+        height: 230px;
+    }
+
+
+    .kelas .bootstrap .kelasbootstrap img{
+        height: 230px;
+    }
+
+
+    .kelas .js2 .kelasjs2 img{
+        margin-top: -20px;
+        height: 230px;
+    }
+
+    .sosmed2 img{
+        height: 70px;
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: -30px;
+        margin-left: -5px;
+        margin-right: -5px;
+    }
+}
+
+@media screen and (max-width:340px){
+    .tumbnail img{
+        height: 105px;
+    }
+
+    .judul h1{
+        font-size: 30px;
+    }
+
+    .kelas .project2 .kelasproject2 img{
+        height: 90px;
+    }
+
+    .kelas .project2 .kelasproject2 img{
+        height: 200px;
+    }
+
+    .sosmed h5{
+        font-size: 20px;
+    }
+
+    .sosmed2 img{
+        height: 60px;
+    }
+}
+
+
+

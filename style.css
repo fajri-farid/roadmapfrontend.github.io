@@ -873,14 +873,15 @@
     }
 }
 
-@media screen and (max-width:390px){
+@media screen and (max-width:391px){
     *{
         margin: 0px;
         padding: 10px 5px; 
     }
 
     .tumbnail img{
-        height: 122px;
+        height: 125px;
+        margin-bottom: -30px;
     }
 
     .judul h1{
